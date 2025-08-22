@@ -436,7 +436,7 @@
       const pad=20, bw=80, gap=18, baseY=210;
       function draw(t=0){
         ctx.clearRect(0,0,canvas.width,canvas.height);
-        ctx.font='12px ui-monospace, SFMono-Regular, Menlo, monospace';
+        ctx.font='bold 12px ui-monospace, SFMono-Regular, Menlo, monospace';
         data.forEach((d,i)=>{
           const x = pad + i*(bw+gap);
           const h = (d.v/100)*160*Math.min(1,t);
