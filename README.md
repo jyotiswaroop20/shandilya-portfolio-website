@@ -10,6 +10,7 @@ font=Fira+Code&weight=600&size=28&pause=1000&color=1A73E8
 &nbsp;Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 
+
 ---
 
 ## 🚀 About Me  
