@@ -443,10 +443,14 @@
           const g = ctx.createLinearGradient(x, baseY-h, x+bw, baseY);
           g.addColorStop(0,'#ff7518'); g.addColorStop(1,'#34d399');
           ctx.fillStyle=g; ctx.fillRect(x, baseY-h, bw, h);
-          ctx.fillStyle='rgba(229,231,235,.9)';
-          ctx.font = '12px ui-monospace, SFMono-Regular, Menlo, monospace';
+          // Tool name (bold black)
+          ctx.fillStyle = '#000000';
+          ctx.font = 'bold 13px "Arial Black", Arial, sans-serif';
           ctx.fillText(d.k, x+10, baseY+16);
-          ctx.font = 'bold 14px "Arial Black", Arial, sans-serif';
+
+        // Percentage (bigger bold black)
+          ctx.fillStyle = '#000000';
+          ctx.font = 'bold 15px "Arial Black", Arial, sans-serif';
           ctx.fillText(d.v+'%', x+24, baseY-h-6);
         });
         requestAnimationFrame(()=>draw(Math.min(1, t+0.02)));
