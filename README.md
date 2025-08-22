@@ -1,7 +1,7 @@
 <!-- README.md for Portfolio Website -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;Linux+Administrator+%26+DevOps+Engineer;Open-Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;%E2%80%8BLinux+Administrator+%26+DevOps+Engineer;Open-Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 
 ---
