@@ -29,6 +29,7 @@ LVM • RAID • Stratis • VDO • Quota • LUKS Encryption
 ### 🌍 Networking & Services  
 Apache • FTP • Samba • NFS • DHCP • DNS • MySQL • Postfix • Firewalld  
 
+
 ### 🐧 DevOps & Automation  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
