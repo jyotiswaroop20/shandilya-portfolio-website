@@ -43,7 +43,9 @@ Apache • FTP • Samba • NFS • DHCP • DNS • MySQL • Postfix • Fire
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-2C2D72?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![PuTTY](https://img.shields.io/badge/PuTTY-35495E?style=for-the-badge&logo=gnometerminal&logoColor=white)  
+![PuTTY](https://img.shields.io/badge/PuTTY-35495E?style=for-the-badge&logo=gnometerminal&logoColor=white)
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+
 
 ---
 
