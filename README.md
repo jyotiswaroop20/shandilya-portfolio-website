@@ -1,16 +1,16 @@
 <!-- README.md for Portfolio Website -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;%20Linux+%26+Server+Administrator;%20Cybersecurity+Enthusiast;%20Automation+with+Python+%26+C;%20Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Jyotiswaroop+Tripathi;%20Linux+%26+Server+Administrator;%20Automation+with+Python+%26+C;%20Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 
 ---
 
 ## 🚀 About Me  
 🔹 **Self-taught Linux & Server Administrator** with strong expertise in Red Hat–based systems.  
-🔹 Skilled in **Linux Administration, Docker/Podman, Git, Cybersecurity & Automation**.  
-🔹 Passionate about **building secure, reliable, and automated infrastructures**.  
-🔹 Career Objective → *To secure an entry-level role in Linux Administration / Cybersecurity where I can apply my skills to deliver secure and scalable IT solutions.*  
+🔹 Skilled in **Linux Administration, Docker/Podman, Git & Automation**.  
+🔹 Passionate about **building reliable, scalable, and automated infrastructures**.  
+🔹 Career Objective → *To secure an entry-level role in Linux Administration where I can apply my skills to deliver scalable IT solutions.*  
 
 ---
 
@@ -18,13 +18,13 @@
 
 ### 🌐 Operating Systems  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-RHEL | AlmaLinux | Rocky Linux | CentOS | Kali Linux  
+RHEL | AlmaLinux | Rocky Linux | CentOS | Debian  
 
 ### ⚙️ Core System Administration  
 User Management • File Permissions • Cron Jobs • SSH • DNS • SELinux • Sudo • Systemd • Logging • System Health Monitoring  
 
-### 💾 Storage & Security  
-LVM • RAID • Stratis • VDO • Quota • LUKS Encryption • Backup & Recovery • Linux Hardening • Basic Cybersecurity  
+### 💾 Storage & Automation  
+LVM • RAID • Stratis • VDO • Quota • LUKS Encryption • Backup & Recovery  
 
 ### 🌍 Networking & Services  
 Apache • FTP • Samba • NFS • DHCP • DNS • MySQL • Postfix • Firewalld • NTP  
@@ -43,7 +43,6 @@ Apache • FTP • Samba • NFS • DHCP • DNS • MySQL • Postfix • Fire
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-2C2D72?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![PuTTY](https://img.shields.io/badge/PuTTY-35495E?style=for-the-badge&logo=gnometerminal&logoColor=white)
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 
 ---
 
@@ -51,7 +50,7 @@ Apache • FTP • Samba • NFS • DHCP • DNS • MySQL • Postfix • Fire
 ✔️ Configured & deployed Linux services: Apache, FTP, SSH, Samba, NFS, DNS, DHCP  
 ✔️ Automated server tasks with **Bash & Python scripts**  
 ✔️ Deployed containers using **Docker & Podman**  
-✔️ Implemented user auditing, firewall configs, and basic **cybersecurity tasks**  
+✔️ Implemented user auditing, firewall configs, and server hardening tasks  
 
 ---
 
@@ -78,4 +77,4 @@ Apache • FTP • Samba • NFS • DHCP • DNS • MySQL • Postfix • Fire
 ---
 
 ## ✨ Fun Fact  
-*"I started my career as an Estate Manager, but Linux sparked my passion and transformed me into a Server Administrator & Cybersecurity Enthusiast 🚀."* 
+*"I started my career as an Estate Manager, but Linux sparked my passion and transformed me into a Server Administrator 🚀."*
