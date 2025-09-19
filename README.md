@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 🔹 **Self-taught Linux & Server Administrator** with strong expertise in Red Hat–based systems.  
-🔹 Skilled in **Linux Administration, Docker/Podman, Git & Automation**.  
+🔹 Skilled in **Linux Administration, Podman, Git & Automation**.  
 🔹 Passionate about **building reliable, scalable, and automated infrastructures**.  
 🔹 Career Objective → *To secure an entry-level role in Linux Administration where I can apply my skills to deliver scalable IT solutions.*  
 
@@ -30,14 +30,12 @@ LVM • RAID • Stratis • VDO • Quota • LUKS Encryption • Backup & Reco
 Apache • FTP • Samba • NFS • DHCP • DNS • MySQL • Postfix • Firewalld • NTP  
 
 ### 🐳 Containers & Version Control  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 🖥️ Programming & Tools  
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
@@ -49,7 +47,7 @@ Apache • FTP • Samba • NFS • DHCP • DNS • MySQL • Postfix • Fire
 ## 📌 Projects & Lab Work  
 ✔️ Configured & deployed Linux services: Apache, FTP, SSH, Samba, NFS, DNS, DHCP  
 ✔️ Automated server tasks with **Bash & Python scripts**  
-✔️ Deployed containers using **Docker & Podman**  
+✔️ Deployed containers using **Podman**  
 ✔️ Implemented user auditing, firewall configs, and server hardening tasks  
 
 ---
